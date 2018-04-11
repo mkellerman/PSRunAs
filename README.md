@@ -4,8 +4,9 @@ Collection of scripts to Invoke an expression with different credentials.
 
 Each script comes with it's own Invoke-ExpressionAs wrapper.
 
-A full solution is offered here:
+A prefered solution is offered here:
 https://github.com/mkellerman/Invoke-CommandAs
+https://www.powershellgallery.com/packages/Invoke-CommandAs
 
 ---
 ## Invoke-ScheduledJob
