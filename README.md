@@ -1,4 +1,4 @@
-# PSRunAs [![Analytics](https://ga-beacon.appspot.com/UA-133882862-1/PSTelegramAPI?pixel)](https://github.com/mkellerman)
+# PSRunAs [![Analytics](https://ga-beacon.appspot.com/UA-133882862-1/PSRunAs?pixel)](https://github.com/mkellerman)
 
 Collection of scripts to Invoke an expression with different credentials.
 
